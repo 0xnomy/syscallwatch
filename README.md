@@ -93,7 +93,7 @@ The tool uses Gemini’s API to generate human-readable reports based on the sys
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - Free to use anywhere except for commercial uses
 
 ## Acknowledgements
 
