@@ -2,6 +2,8 @@
 
 SysCallWatch is a Python-based tool designed for monitoring and tracing system calls in Linux systems. The application allows users to generate logs of system calls executed by a target program, analyze the traces, and generate easy-to-understand reports using the Gemini API.
 
+Made as a semester project for OS course taught by Nazia Shahzadi & Mah Rukh
+
 ## Features
 
 - **System Call Monitoring**: Track system calls executed by a given program.
@@ -102,7 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or contributions, feel free to reach out through the GitHub issues section or email the repository owner.
-
----
-
-This README provides an overview of the tool's functionality, how to install and use it, and details about contributing. Let me know if you need further modifications or additions!
