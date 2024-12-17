@@ -95,12 +95,6 @@ The tool uses Gemini’s API to generate human-readable reports based on the sys
 
 This project is licensed under the MIT License - Free to use anywhere except for commercial uses
 
-## Acknowledgements
-
-- Gemini API for text generation.
-- Tkinter for building the GUI.
-- GIK Institute and Ms. Nazia Shahzadi for project inspiration and guidance.
-
 ## Contact
 
 For any questions or contributions, feel free to reach out through the GitHub issues section or email the repository owner.
